@@ -25,7 +25,7 @@
 
 ### :bar_chart: My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipipi666&layout=compact&theme=nightowl&border_radius=20)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darthcrusade&layout=compact&theme=nightowl&border_radius=20)](https://git.io/streak-stats)
 
 <!--
 **darthcrusade/darthcrusade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
